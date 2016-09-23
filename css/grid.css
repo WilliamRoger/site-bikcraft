@@ -1,6 +1,11 @@
 *, *:before, *:after {
+<<<<<<< HEAD
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
+=======
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+>>>>>>> 56229c5faeabf26807ae176197524beb14c749a9
   box-sizing: border-box;
 }
 
@@ -42,6 +47,7 @@
 .grid-14 	{width: 820px;}
 .grid-15 	{width: 880px;}
 .grid-16 	{width: 940px;}
+<<<<<<< HEAD
 .grid-1-3	{width: 300px;}
 
   /* Inciando Media Queries */
@@ -80,3 +86,6 @@
     float: none;
   }
 }
+=======
+.grid-1-3	{width: 300px;}
+>>>>>>> 56229c5faeabf26807ae176197524beb14c749a9

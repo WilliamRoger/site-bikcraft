@@ -11,7 +11,10 @@ p {
 
 img {
   display: block;
+<<<<<<< HEAD
   max-width: 100%; /*Imagem Fluída*/
+=======
+>>>>>>> 56229c5faeabf26807ae176197524beb14c749a9
 }
 
 .btn {
